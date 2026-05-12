@@ -1,0 +1,1 @@
+When there is no optimization the function starts at LFB0 while with optimization it starts at LFB13. Labeling in general is slightly different between O1 and O3. While O1 does use L1, O3 does not use L1.
